@@ -15,9 +15,9 @@ This is a fully responsive e-commerce platform developed using modern web techno
 - Form handling and validation using Formik and Yup.
 - Integration with Rapid API for additional functionalities.
 
-![Screenshot 2024-07-06 134219](https://github.com/QariTheDev/Ecommerce-Website/assets/88932788/14ea4555-ad45-4038-bc45-8e07ccb051dd)
 ![Screenshot 2024-07-06 134256](https://github.com/QariTheDev/Ecommerce-Website/assets/88932788/65ec7128-9b27-4da3-81af-d014464b7c1b)
 ![Screenshot 2024-07-06 135341](https://github.com/QariTheDev/Ecommerce-Website/assets/88932788/8c19283e-ade2-4f44-9eca-fdc148414a87)
+![Screenshot 2024-07-06 134219](https://github.com/QariTheDev/Ecommerce-Website/assets/88932788/14ea4555-ad45-4038-bc45-8e07ccb051dd)
 ![Screenshot 2024-07-06 135428](https://github.com/QariTheDev/Ecommerce-Website/assets/88932788/1d7a844d-53cd-4468-9634-0585e7676dc8)
 
 
